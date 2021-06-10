@@ -21,9 +21,7 @@ pip install Tkinter
 
 # How to Use
 
-For Video Tutorial
-<br>
-<a href="https://drive.google.com/file/d/1yEgwFAQZLrQgSquFlLJQU6q3uUf0hMNj/view?usp=sharing"><img src="https://drive.google.com/file/d/1yEgwFAQZLrQgSquFlLJQU6q3uUf0hMNj/view?usp=sharing" alt="How To Do" width="400px" height="250px"></a>
+For Video Tutorial [Click Here]([Click Here](https://drive.google.com/file/d/1RX5r2H8eGlxEzU2F_NycTKzJJ4kz-3dn/view?usp=sharing))
 
 
 # Social
