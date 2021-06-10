@@ -6,7 +6,7 @@ This is a GUI project that helps in Drawing Miller Indices for the values provid
 
 # What are Miller Indices
 Miller indices form a notation system in crystallography for planes in crystal lattices.
-<img src="https://i.ytimg.com/vi/d8X54umgLUw/maxresdefault.jpg" alt="Example" width="250px" height="250px">
+ <img src="https://i.ytimg.com/vi/d8X54umgLUw/maxresdefault.jpg" alt="Example" width="250px" height="250px">
 
 # Dependencies:
 
@@ -22,7 +22,7 @@ pip install Tkinter
 # How to Use
 
 For Video Tutorial
-[![How to Use](https://drive.google.com/file/d/1yEgwFAQZLrQgSquFlLJQU6q3uUf0hMNj/view?usp=sharing)](https://drive.google.com/file/d/1G9s-oZEKHBJym4F2L4NPC7GzgsEUvpD-/view?usp=sharing)
+![How to Use](https://drive.google.com/file/d/1WpU9G6ajMobHMIPgqTL8aYi2eYf7-lPT/view?usp=sharing)
 
 
 # Social
