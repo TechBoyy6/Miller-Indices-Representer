@@ -1,12 +1,12 @@
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)]
+![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
 # Miller-Indices-Representer
 This is a GUI project that helps in Drawing Miller Indices for the values provided by user.
 
 # What are Miller Indices
 Miller indices form a notation system in crystallography for planes in crystal lattices.
-![Example](https://i.ytimg.com/vi/d8X54umgLUw/maxresdefault.jpg = 250x250)
+<img src="https://i.ytimg.com/vi/d8X54umgLUw/maxresdefault.jpg" alt="Example" width="250px" height="250px">
 
 # Dependencies:
 
@@ -22,7 +22,7 @@ pip install Tkinter
 # How to Use
 
 For Video Tutorial
-![Click Here](https://drive.google.com/file/d/1G9s-oZEKHBJym4F2L4NPC7GzgsEUvpD-/view?usp=sharing)
+[![How to Use](https://drive.google.com/file/d/1yEgwFAQZLrQgSquFlLJQU6q3uUf0hMNj/view?usp=sharing)](https://drive.google.com/file/d/1G9s-oZEKHBJym4F2L4NPC7GzgsEUvpD-/view?usp=sharing)
 
 
 # Social
